@@ -7,7 +7,7 @@ A Monobehaviour State Machine for unity!
 
 Add State Machine Mono Component to a game object.After that start to adding states.
 State names are optional.
-You can initialize via StateMachineMono.Initialize() function.
-Also you can change state via StateMachineMono.ChangeState(stateIndex) function.
+You can initialize via ``StateMachineMono.Initialize()`` function.
+Also you can change state via ``StateMachineMono.ChangeState(stateIndex)`` function.
 
 
